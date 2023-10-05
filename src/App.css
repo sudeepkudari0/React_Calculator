@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    display: flexbox;
+    text-align: center;
+    margin: 14vw;
+    
+}
+.input1{
+    margin: 10px;
+    padding: 10px;
+    max-width: 300px;
+    font-size: 15px;
+}
+.input2{
+    max-width: 300px;
+    margin: 10px;
+    padding: 10px;
+    font-size: 15px;
+}
+.submit{
+    min-width: 150px;
+    min-height: 30px;
+}
+#operations{
+    margin:20px;
+    height: 30px;
+    width: 30px;
+}
